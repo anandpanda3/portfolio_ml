@@ -14,16 +14,16 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Soumyajit Behera</h3>
+          <h3>Designed and Developed by Anand Panda</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} SB</h3>
+          <h3>Copyright © {year} AP</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/soumyajit4419"
+                href="https://github.com/anandpanda3"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/Soumyajit4419"
+                href="https://twitter.com/dev_anandpanda"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/soumyajit4419/"
+                href="https://www.linkedin.com/in/anand-panda-308951253/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -53,7 +53,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/soumyajit4419"
+                href="https://www.instagram.com/ap__0373"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
